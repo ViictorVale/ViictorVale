@@ -1,6 +1,6 @@
 ### Olá! 😁
 
-- 🌱 Estudando C#
+- 🌱 C# study in progress
 
 <div align="center">
   <a href="https:https://www.linkedin.com/in/viictor-vale">
